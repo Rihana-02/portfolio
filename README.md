@@ -6,7 +6,6 @@
 
 ### Built with passion 
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Portfolio-F8DADA?style=for-the-badge&labelColor=111111)](https://rihana-02.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rihana--02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rihana-02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rihana%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihana-r-7b636232b)
 [![HackerRank](https://img.shields.io/badge/HackerRank-rihanarasheeqa-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rihanarasheeqa)
