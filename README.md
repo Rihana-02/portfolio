@@ -4,7 +4,7 @@
 
 # 🌸 Personal Portfolio Website
 
-### Built with passion · Powered by AI · Deployed with ❤️
+### Built with passion 
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Portfolio-F8DADA?style=for-the-badge&labelColor=111111)](https://rihana-02.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rihana--02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rihana-02)
@@ -27,7 +27,7 @@ I'm passionate about building intelligent, scalable systems — from ML-powered 
 ## 🌐 Live Site
 
 ```
-https://rihana-02.github.io/Portfolio/
+https://rihana-02.github.io/portfolio/
 ```
 
 ---
